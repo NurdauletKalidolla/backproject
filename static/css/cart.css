@@ -1,0 +1,170 @@
+body {
+ background-color: rgb(250,247,239); 
+}
+.navar {
+  background-color: rgb(122,12,13);
+  text-align: center;
+  height: 30px;
+}
+.navbar a{
+  font-size: 20px;
+  margin-left: 100px;
+  color:rgb(255, 255, 255);
+  text-decoration: none;
+  
+}
+
+.navbar a:hover{
+  color:var(--red);
+}
+.logo{
+  font-size: 2.5rem;
+  font-weight: bolder;
+  color:#666;
+}
+
+.logo i{
+  padding-right: .5rem;
+  color:var(--red);
+}
+.h4 {
+  color: rgb(155,33,43);
+  text-align: center;
+  font-size: 50px;
+}
+.menu {
+   margin-left: 100px;
+
+}
+.img {
+  display: inline-block;
+  align-items: center;
+  cursor: pointer;
+  margin: 0px 0px 0px 150px;
+
+
+
+ 
+}
+.text-space {
+  color: rgb(97,97,97);
+  text-align: center;
+  font-size: 25px;
+  margin-bottom: 80px;
+}
+.img:hover .text-space {
+  color: rgb(249,177,0);
+}
+.botto {
+  background-color: rgb(122,12,13);
+  text-align: center;
+
+}
+.bott a{
+  font-size: 20px;
+  margin-left: 100px;
+  color:rgb(255, 255, 255);
+  text-decoration: none;
+  
+}
+
+.bott a:hover{
+  color:var(--red);
+}
+.icons {
+  text-align: center;
+ 
+}
+.icon a{
+  position: relative;
+  font-size: 20px;
+  color:rgb(255, 255, 255);
+  text-decoration: none;
+  margin: 100px;
+
+}
+#valyta {
+  font-size: 17px;
+  text-align: center;
+  margin-top: -50px;
+  border-radius: 7px;
+  background-color: rgb(155,33,43);
+  cursor: pointer;
+  color: white;
+}
+.money {
+  text-align: center;
+  cursor: pointer;
+}
+#valyta1 {
+  font-size: 17px;
+  text-align: center;
+  margin-top: -50px;
+  border-radius: 7px;
+  background-color: rgb(155,33,43);
+  cursor: pointer;
+  color: white;
+}
+#valyta2 {
+  font-size: 17px;
+  text-align: center;
+  margin-top: -50px;
+  border-radius: 7px;
+  background-color: rgb(155,33,43);
+  cursor: pointer;
+  color: white;
+}
+#valyta3 {
+  font-size: 17px;
+  text-align: center;
+  margin-top: -50px;
+  border-radius: 7px;
+  background-color: rgb(155,33,43);
+  cursor: pointer;
+  color: white;
+}
+#valyta4 {
+  font-size: 17px;
+  text-align: center;
+  margin-top: -50px;
+  border-radius: 7px;
+  background-color: rgb(155,33,43);
+  cursor: pointer;
+  color: white;
+}
+#valyta5 {
+  font-size: 17px;
+  text-align: center;
+  margin-top: -50px;
+  border-radius: 7px;
+  background-color: rgb(155,33,43);
+  cursor: pointer;
+  color: white;
+}
+#valyta6 {
+  font-size: 17px;
+  text-align: center;
+  margin-top: -50px;
+  border-radius: 7px;
+  background-color: rgb(155,33,43);
+  cursor: pointer;
+  color: white;
+}
+#valyta7 {
+  font-size: 17px;
+  text-align: center;
+  margin-top: -50px;
+  border-radius: 7px;
+  background-color: rgb(155,33,43);
+  cursor: pointer;
+  color: white;
+}
+#valyta8 {
+  font-size: 17px;
+  text-align: center;
+  margin-top: -50px;
+  border-radius: 7px;
+  background-color: rgb(155,33,43);
+  cursor: pointer;
+  color: white;
+}
